@@ -1,0 +1,111 @@
+2018-10-04 19:34:26,615 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:34:26,725 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:34:26 CST 2018]; root of context hierarchy
+2018-10-04 19:34:26,799 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:34:27,664 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:34:28,390 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:34:30,326 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 3708 ms
+2018-10-04 19:36:31,284 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 19:36:31,290 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:36:31 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:36:31,290 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 19:36:31,463 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:36:31,739 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 19:36:31,888 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:36:31 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:36:31,947 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:36:31 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:36:32,062 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 777 ms
+2018-10-04 19:36:32,074 WARN[org.springframework.web.servlet.PageNotFound:1176] - No mapping found for HTTP request with URI [/register.do] in DispatcherServlet with name 'springmvc'
+2018-10-04 19:39:01,898 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:39:01,985 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:39:01 CST 2018]; root of context hierarchy
+2018-10-04 19:39:02,041 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:39:02,332 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:39:02,595 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:39:03,521 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1616 ms
+2018-10-04 19:44:57,135 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:44:57,216 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:44:57 CST 2018]; root of context hierarchy
+2018-10-04 19:44:57,283 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:44:57,659 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:44:57,989 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:44:59,073 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1936 ms
+2018-10-04 19:45:33,450 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 19:45:33,456 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:45:33 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:45:33,456 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 19:45:33,616 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:45:33,971 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 19:45:34,076 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:45:33 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:45:34,148 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:45:33 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:45:34,297 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 846 ms
+2018-10-04 19:45:34,717 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [org/springframework/jdbc/support/sql-error-codes.xml]
+2018-10-04 19:45:34,771 INFO[org.springframework.jdbc.support.SQLErrorCodesFactory:127] - SQLErrorCodes loaded: [DB2, Derby, H2, HSQL, Informix, MS-SQL, MySQL, Oracle, PostgreSQL, Sybase, Hana]
+2018-10-04 19:47:22,894 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:47:23,010 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:47:23 CST 2018]; root of context hierarchy
+2018-10-04 19:47:23,073 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:47:23,626 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:47:23,984 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:47:24,759 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1862 ms
+2018-10-04 19:49:09,844 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:49:09,919 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:49:09 CST 2018]; root of context hierarchy
+2018-10-04 19:49:09,967 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:49:10,254 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:49:10,564 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:49:11,586 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1738 ms
+2018-10-04 19:49:45,936 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:49:46,018 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:49:46 CST 2018]; root of context hierarchy
+2018-10-04 19:49:46,078 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:49:46,321 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:49:46,598 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:49:47,625 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1686 ms
+2018-10-04 19:50:42,645 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:50:42,715 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:50:42 CST 2018]; root of context hierarchy
+2018-10-04 19:50:42,759 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:50:43,045 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:50:43,303 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:50:44,276 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1628 ms
+2018-10-04 19:50:57,741 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 19:50:57,747 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:50:57 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:50:57,748 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 19:50:57,902 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:50:58,181 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 19:50:58,277 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:50:57 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:50:58,335 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:50:57 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:50:58,454 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 711 ms
+2018-10-04 19:52:07,036 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 19:52:07,109 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 19:52:07 CST 2018]; root of context hierarchy
+2018-10-04 19:52:07,169 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 19:52:07,770 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 19:52:08,090 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:52:08,843 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1804 ms
+2018-10-04 19:52:17,897 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 19:52:17,903 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:52:17 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:52:17,903 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 19:52:18,049 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 19:52:18,294 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 19:52:18,385 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:52:17 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:52:18,445 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 19:52:17 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 19:52:18,570 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 670 ms
+2018-10-04 21:13:01,891 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 21:13:02,016 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 21:13:02 CST 2018]; root of context hierarchy
+2018-10-04 21:13:02,072 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 21:13:02,382 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 21:13:02,738 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 21:13:03,883 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 1944 ms
+2018-10-04 21:14:40,639 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 21:14:40,645 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 21:14:40 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 21:14:40,645 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 21:14:40,857 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 21:14:41,221 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 21:14:41,356 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 21:14:40 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 21:14:41,418 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 21:14:40 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 21:14:41,533 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 893 ms
+2018-10-04 22:10:52,254 INFO[org.springframework.web.context.ContextLoader:304] - Root WebApplicationContext: initialization started
+2018-10-04 22:10:52,361 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing Root WebApplicationContext: startup date [Thu Oct 04 22:10:52 CST 2018]; root of context hierarchy
+2018-10-04 22:10:52,446 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mybatis.xml]
+2018-10-04 22:10:52,903 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-tx.xml]
+2018-10-04 22:10:53,416 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 22:10:54,353 INFO[org.springframework.web.context.ContextLoader:344] - Root WebApplicationContext: initialization completed in 2095 ms
+2018-10-04 22:11:45,414 INFO[org.springframework.web.servlet.DispatcherServlet:489] - FrameworkServlet 'springmvc': initialization started
+2018-10-04 22:11:45,421 INFO[org.springframework.web.context.support.XmlWebApplicationContext:583] - Refreshing WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 22:11:45 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 22:11:45,422 INFO[org.springframework.beans.factory.xml.XmlBeanDefinitionReader:317] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2018-10-04 22:11:45,582 INFO[org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor:155] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2018-10-04 22:11:45,801 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping:543] - Mapped "{[/admin/register]}" onto public java.lang.String net.shareclub.controller.UserController.register(net.shareclub.bean.User)
+2018-10-04 22:11:45,887 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 22:11:45 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 22:11:45,939 INFO[org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter:534] - Looking for @ControllerAdvice: WebApplicationContext for namespace 'springmvc-servlet': startup date [Thu Oct 04 22:11:45 CST 2018]; parent: Root WebApplicationContext
+2018-10-04 22:11:46,089 INFO[org.springframework.web.servlet.DispatcherServlet:508] - FrameworkServlet 'springmvc': initialization completed in 673 ms

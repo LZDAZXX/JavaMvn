@@ -1,0 +1,5 @@
+net\shareclub\mapper\UserMapper.class
+net\shareclub\bean\User.class
+net\shareclub\controller\UserController.class
+net\shareclub\service\impl\UserServiceImpl.class
+net\shareclub\service\UserService.class
